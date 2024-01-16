@@ -1,4 +1,4 @@
-<div style={{color:"red"}}>
+<div style="background-color: #b81919;">
 <h1 align="center">Hi 👋, I'm Abhijeet Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

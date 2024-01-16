@@ -1,4 +1,4 @@
-<body bgcolor="red">
+<body bgcolor="red" background="https://github.com/abhijeet888/abhijeet888/blob/main/cat-unicorn.gif">
 <h1 align="center">Hi 👋, I'm Abhijeet Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

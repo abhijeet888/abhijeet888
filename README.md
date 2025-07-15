@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **abhijeet5sharma5@gmail.com**
 
+- Resume **https://cyan-tildi-98.tiiny.site**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

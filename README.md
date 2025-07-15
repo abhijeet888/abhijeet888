@@ -15,9 +15,9 @@
 </p>
 
 
-<div style="display: flex; height: '100px'; width: '100px'">
-![](https://github.com/abhijeet888/abhijeet888/blob/main/cat-unicorn.gif)
-![](https://github.com/abhijeet888/abhijeet888/blob/main/giphy.webp)
+<div style="display: flex;">
+<img src="https://github.com/abhijeet888/abhijeet888/blob/main/cat-unicorn.gif" alt="unicorn" width="300" height="160"/>
+<img src="https://github.com/abhijeet888/abhijeet888/blob/main/giphy.webp" alt="first game" width="300" heught="100"/>
 </div>
 
 

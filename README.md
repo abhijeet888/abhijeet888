@@ -15,8 +15,10 @@
 </p>
 
 
+<div style="display: flex; height: '100px'; width: '100px'">
 ![](https://github.com/abhijeet888/abhijeet888/blob/main/cat-unicorn.gif)
 ![](https://github.com/abhijeet888/abhijeet888/blob/main/giphy.webp)
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>

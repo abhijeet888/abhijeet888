@@ -18,7 +18,7 @@
 <div style="display: flex;">
 <img src="https://media1.tenor.com/m/cOPyUpyFUC8AAAAd/weekend-sunday.gif" alt="unicorn" width="300" height="160"/>
 <img src="https://github.com/abhijeet888/abhijeet888/blob/main/giphy.webp" alt="first game" width="300" heught="100"/>
-<img src="https://tenor.com/view/game-80s-tron-future-cool-gif-20702628" alt="tron" width="300" height="160 />
+<img src="https://tenor.com/view/game-80s-tron-future-cool-gif-20702628.gif" alt="tron" width="300" height="160 />
 </div>
 
 
